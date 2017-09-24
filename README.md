@@ -1,2 +1,2 @@
 # HelpSource
-A design project towards a crowd sourcing mobile application for people who need help/want to help others. 
+A design group project towards a crowd-sourcing mobile app to connect people who need help and those who want to help. This project was the collaborative work of this lovely group (in alphabetic order): Alex Nelson, Lina Taheri, Maryam Tavakoli, Rahul Rachapalli, Rob Frye
